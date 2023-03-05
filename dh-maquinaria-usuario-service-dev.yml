@@ -1,0 +1,2 @@
+maxLoginFail: 3
+domainMailEnabled: ['@outlook.com', '@gmail.com', '@digitalhouse.com']
