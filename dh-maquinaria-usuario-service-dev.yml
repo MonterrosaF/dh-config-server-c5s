@@ -3,4 +3,4 @@ server:
 
 max_login_fail: 3
 # domain_mail_enabled: ['@outlook.com', '@gmail.com', '@digitalhouse.com']
-domain_mail_enabled: @outlook.com,@gmail.com,@digitalhouse.com
+domain_mail_enabled: '@outlook.com', '@gmail.com', '@digitalhouse.com'
